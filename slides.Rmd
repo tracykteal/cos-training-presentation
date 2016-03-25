@@ -1,7 +1,6 @@
 ---
 title: "Challenges and opportunities in training"
-author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director <br>&nbsp;
-<br>https://github.com/tracykteal/cos-training-presentation
+author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director
 <br> @tracykteal, @datacarpentry, @swcarpentry"
 output:
   ioslides_presentation:
@@ -177,6 +176,12 @@ Survey question about strongly agree that you would recommend to a friend
 - Active researchers are very motivated, but need 'on the job' training
 - Training for active researchers needs to teach in the gaps
 - Different challenges & opportunities in the training process that potentially require different strategies for support and different groups to develop and deliver
+
+## Reproducible presentation
+
+http://tracykteal.github.io/cos-training-presentation/slides.html
+
+https://github.com/tracykteal/cos-training-presentation
 
 
 
