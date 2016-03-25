@@ -1,6 +1,8 @@
 ---
 title: "Challenges and opportunities in training"
-author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director"
+author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director <br>&nbsp;
+<br>https://github.com/tracykteal/cos-training-presentation
+<br> @tracykteal, @datacarpentry, @swcarpentry"
 output:
   ioslides_presentation:
     highlight: pygments
@@ -121,6 +123,8 @@ Research & Development
 - Delivery mechanism: collaboratively developed lessons available on-line for free use, instructors trained to teach
 - Materials development - development of lessons and exercises
 - Assessment - assessment surveys for both assessing learning outcomes and improving content
+
+Software Carpentry and Dr. Greg Wilson led much of this R&D
 
 <div class="notes">
 Software Carpentry founded by Greg Wilson in 1998 and then re-booted in 2010
